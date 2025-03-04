@@ -16,7 +16,7 @@ issue_type = 'Incident'  # Incident and Service Request Complaint
 country = 'India'
 components_1 = ['Web']
 labels = ['In', 'kredito24.in', 'Complaint']
-country = 'India'
+
 
 attachments = 'file.txt'
 
