@@ -16,6 +16,7 @@ issue_type = 'Incident'  # Incident and Service Request Complaint
 country = 'India'
 components_1 = ['Web']
 labels = ['In', 'kredito24.in', 'Complaint']
+country = 'India'
 
 attachments = 'file.txt'
 
@@ -31,7 +32,7 @@ header_att = {
 
 
 def jira_create(summary_jira: str, description_jira: str, priority: str, PROJECT_KEY: str, issue_type: str,
-                components: list, labels: list, attachments):
+                components: list, labels: list, country: str, attachments):
     issue_data = {
         "fields": {
             "summary": summary_jira,
@@ -41,6 +42,7 @@ def jira_create(summary_jira: str, description_jira: str, priority: str, PROJECT
             "issuetype": {"name": f"{issue_type}"},
             'components': [{'name': component} for component in components],
             "labels": labels,
+            "customfield_12901": {'value': country},
         }
     }
 
@@ -78,4 +80,4 @@ def jira_create(summary_jira: str, description_jira: str, priority: str, PROJECT
 
 
 jira_create(summary_jira=summary_jira, description_jira=description_jira, priority=priority, PROJECT_KEY=PROJECT_KEY,
-            issue_type=issue_type, components=components_1, labels=labels, attachments=attachments)
+            issue_type=issue_type, components=components_1, labels=labels, attachments=attachments, country=country)
