@@ -1,0 +1,209 @@
+Index: .idea/misc.xml
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+deleted file mode 100644
+--- a/.idea/misc.xml	(revision 5f8908749640f0a04a21ba3f4a2e4dd6377a651e)
++++ /dev/null	(revision 5f8908749640f0a04a21ba3f4a2e4dd6377a651e)
+@@ -1,7 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="Black">
+-    <option name="sdkName" value="Python 3.9 (jira_request)" />
+-  </component>
+-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9 (jira_request)" project-jdk-type="Python SDK" />
+-</project>
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+deleted file mode 100644
+--- a/.idea/workspace.xml	(revision 5f8908749640f0a04a21ba3f4a2e4dd6377a651e)
++++ /dev/null	(revision 5f8908749640f0a04a21ba3f4a2e4dd6377a651e)
+@@ -1,70 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="AutoImportSettings">
+-    <option name="autoReloadType" value="SELECTIVE" />
+-  </component>
+-  <component name="ChangeListManager">
+-    <list default="true" id="3dfc9896-fade-4977-b6db-b6cbc1a52a22" name="Changes" comment="">
+-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/jira_request.iml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/file.txt" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+-    </list>
+-    <option name="SHOW_DIALOG" value="false" />
+-    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+-    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+-    <option name="LAST_RESOLUTION" value="IGNORE" />
+-  </component>
+-  <component name="FileTemplateManagerImpl">
+-    <option name="RECENT_TEMPLATES">
+-      <list>
+-        <option value="Python Script" />
+-      </list>
+-    </option>
+-  </component>
+-  <component name="Git.Settings">
+-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+-  </component>
+-  <component name="ProjectColorInfo"><![CDATA[{
+-  "associatedIndex": 7
+-}]]></component>
+-  <component name="ProjectId" id="2tlrdAzhLXRbgkzhE25NiIUQEFi" />
+-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+-  <component name="ProjectViewState">
+-    <option name="hideEmptyMiddlePackages" value="true" />
+-    <option name="showLibraryContents" value="true" />
+-  </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "Python.incident.executor": "Run",
+-    "Python.main.executor": "Run",
+-    "Python.test.executor": "Run",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "git-widget-placeholder": "master"
+-  }
+-}]]></component>
+-  <component name="SharedIndexes">
+-    <attachedChunks>
+-      <set>
+-        <option value="bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155" />
+-      </set>
+-    </attachedChunks>
+-  </component>
+-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+-  <component name="TaskManager">
+-    <task active="true" id="Default" summary="Default task">
+-      <changelist id="3dfc9896-fade-4977-b6db-b6cbc1a52a22" name="Changes" comment="" />
+-      <created>1740937586779</created>
+-      <option name="number" value="Default" />
+-      <option name="presentableId" value="Default" />
+-      <updated>1740937586779</updated>
+-    </task>
+-    <servers />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: .idea/inspectionProfiles/profiles_settings.xml
+===================================================================
+diff --git a/.idea/inspectionProfiles/profiles_settings.xml b/.idea/inspectionProfiles/profiles_settings.xml
+deleted file mode 100644
+--- a/.idea/inspectionProfiles/profiles_settings.xml	(revision 5f8908749640f0a04a21ba3f4a2e4dd6377a651e)
++++ /dev/null	(revision 5f8908749640f0a04a21ba3f4a2e4dd6377a651e)
+@@ -1,6 +0,0 @@
+-<component name="InspectionProjectProfileManager">
+-  <settings>
+-    <option name="USE_PROJECT_PROFILE" value="false" />
+-    <version value="1.0" />
+-  </settings>
+-</component>
+\ No newline at end of file
+Index: .idea/modules.xml
+===================================================================
+diff --git a/.idea/modules.xml b/.idea/modules.xml
+deleted file mode 100644
+--- a/.idea/modules.xml	(revision 5f8908749640f0a04a21ba3f4a2e4dd6377a651e)
++++ /dev/null	(revision 5f8908749640f0a04a21ba3f4a2e4dd6377a651e)
+@@ -1,8 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectModuleManager">
+-    <modules>
+-      <module fileurl="file://$PROJECT_DIR$/.idea/jira_request.iml" filepath="$PROJECT_DIR$/.idea/jira_request.iml" />
+-    </modules>
+-  </component>
+-</project>
+\ No newline at end of file
+Index: .idea/inspectionProfiles/Project_Default.xml
+===================================================================
+diff --git a/.idea/inspectionProfiles/Project_Default.xml b/.idea/inspectionProfiles/Project_Default.xml
+deleted file mode 100644
+--- a/.idea/inspectionProfiles/Project_Default.xml	(revision 5f8908749640f0a04a21ba3f4a2e4dd6377a651e)
++++ /dev/null	(revision 5f8908749640f0a04a21ba3f4a2e4dd6377a651e)
+@@ -1,43 +0,0 @@
+-<component name="InspectionProjectProfileManager">
+-  <profile version="1.0">
+-    <option name="myName" value="Project Default" />
+-    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+-      <option name="ignoredPackages">
+-        <value>
+-          <list size="30">
+-            <item index="0" class="java.lang.String" itemvalue="pydantic_core" />
+-            <item index="1" class="java.lang.String" itemvalue="typing_extensions" />
+-            <item index="2" class="java.lang.String" itemvalue="httpx" />
+-            <item index="3" class="java.lang.String" itemvalue="SQLAlchemy" />
+-            <item index="4" class="java.lang.String" itemvalue="MarkupSafe" />
+-            <item index="5" class="java.lang.String" itemvalue="requests" />
+-            <item index="6" class="java.lang.String" itemvalue="Jinja2" />
+-            <item index="7" class="java.lang.String" itemvalue="sniffio" />
+-            <item index="8" class="java.lang.String" itemvalue="markdown-it-py" />
+-            <item index="9" class="java.lang.String" itemvalue="Pygments" />
+-            <item index="10" class="java.lang.String" itemvalue="starlette" />
+-            <item index="11" class="java.lang.String" itemvalue="certifi" />
+-            <item index="12" class="java.lang.String" itemvalue="mdurl" />
+-            <item index="13" class="java.lang.String" itemvalue="anyio" />
+-            <item index="14" class="java.lang.String" itemvalue="urllib3" />
+-            <item index="15" class="java.lang.String" itemvalue="uvicorn" />
+-            <item index="16" class="java.lang.String" itemvalue="annotated-types" />
+-            <item index="17" class="java.lang.String" itemvalue="watchfiles" />
+-            <item index="18" class="java.lang.String" itemvalue="dnspython" />
+-            <item index="19" class="java.lang.String" itemvalue="pydantic" />
+-            <item index="20" class="java.lang.String" itemvalue="fastapi-cli" />
+-            <item index="21" class="java.lang.String" itemvalue="typer" />
+-            <item index="22" class="java.lang.String" itemvalue="rich" />
+-            <item index="23" class="java.lang.String" itemvalue="fastapi" />
+-            <item index="24" class="java.lang.String" itemvalue="email_validator" />
+-            <item index="25" class="java.lang.String" itemvalue="httpcore" />
+-            <item index="26" class="java.lang.String" itemvalue="idna" />
+-            <item index="27" class="java.lang.String" itemvalue="shellingham" />
+-            <item index="28" class="java.lang.String" itemvalue="et_xmlfile" />
+-            <item index="29" class="java.lang.String" itemvalue="numpy" />
+-          </list>
+-        </value>
+-      </option>
+-    </inspection_tool>
+-  </profile>
+-</component>
+\ No newline at end of file
+Index: .idea/jira_request.iml
+===================================================================
+diff --git a/.idea/jira_request.iml b/.idea/jira_request.iml
+deleted file mode 100644
+--- a/.idea/jira_request.iml	(revision 5f8908749640f0a04a21ba3f4a2e4dd6377a651e)
++++ /dev/null	(revision 5f8908749640f0a04a21ba3f4a2e4dd6377a651e)
+@@ -1,10 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<module type="PYTHON_MODULE" version="4">
+-  <component name="NewModuleRootManager">
+-    <content url="file://$MODULE_DIR$">
+-      <excludeFolder url="file://$MODULE_DIR$/.venv" />
+-    </content>
+-    <orderEntry type="inheritedJdk" />
+-    <orderEntry type="sourceFolder" forTests="false" />
+-  </component>
+-</module>
+\ No newline at end of file
+Index: .idea/vcs.xml
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+deleted file mode 100644
+--- a/.idea/vcs.xml	(revision 5f8908749640f0a04a21ba3f4a2e4dd6377a651e)
++++ /dev/null	(revision 5f8908749640f0a04a21ba3f4a2e4dd6377a651e)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="VcsDirectoryMappings">
+-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+-  </component>
+-</project>
+\ No newline at end of file
